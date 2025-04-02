@@ -1,8 +1,8 @@
 # 👋 Hello, 🎾
 - 👨‍💻 I am a full stack developer that using different technology stack
 - 🎾 I focus on backend development and I love playing tennis !
-- 🔭 I’m currently working on a slack clone by using NextJs !
-- 🌱 I’m currently learning MicroService by Python and Go.
+- 🔭 I’m currently working on a real time collaborative code editor by using React and Express for my last year master course project !
+- 🌱 I’m currently learning MicroService by Go.
 - 🤔 I’m looking for help with DevsOp
 - 📫 How to reach me: Zeying Zhou [https://www.linkedin.com/in/zeying-zhou-427468198/]
 - 😄 Pronouns: He
