@@ -1,12 +1,9 @@
 # 👋 Hello, 🎾
 - 👨‍💻 I am a full stack developer that using different technology stack
 - 🎾 I focus on backend development and I love playing tennis !
-- 🔭 I’m currently working on a real time collaborative code editor by using React and Express for my last year master course project !
-- 🌱 I’m currently learning MicroService by Go.
-- 🤔 I’m looking for help with DevsOp
+- 🌱 I’m currently learning Swift and IOS development.
 - 📫 How to reach me: Zeying Zhou [https://www.linkedin.com/in/zeying-zhou-427468198/]
 - 😄 Pronouns: He
-
 ## 🛠️ Technologies & Tools
 
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&color=informational&logo=javascript)
